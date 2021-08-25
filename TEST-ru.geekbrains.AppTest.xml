@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="ru.geekbrains.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests\target\test-classes;C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests\target\classes;C:\Users\Lev\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Lev\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Lev\.m2\repository\com\squareup\okhttp3\okhttp\4.9.1\okhttp-4.9.1.jar;C:\Users\Lev\.m2\repository\com\squareup\okio\okio\2.8.0\okio-2.8.0.jar;C:\Users\Lev\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.4.0\kotlin-stdlib-common-1.4.0.jar;C:\Users\Lev\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.4.10\kotlin-stdlib-1.4.10.jar;C:\Users\Lev\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Lev\AppData\Local\Temp\surefire3962313210343463755\surefirebooter14195881653574692350.jar C:\Users\Lev\AppData\Local\Temp\surefire3962313210343463755 2021-08-23T17-33-26_349-jvmRun1 surefire2916306981756879941tmp surefire_09173259150123285208tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests\target\test-classes;C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests\target\classes;C:\Users\Lev\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Lev\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Lev\.m2\repository\com\squareup\okhttp3\okhttp\4.9.1\okhttp-4.9.1.jar;C:\Users\Lev\.m2\repository\com\squareup\okio\okio\2.8.0\okio-2.8.0.jar;C:\Users\Lev\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.4.0\kotlin-stdlib-common-1.4.0.jar;C:\Users\Lev\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.4.10\kotlin-stdlib-1.4.10.jar;C:\Users\Lev\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Lev"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Lev\AppData\Local\Temp\surefire3962313210343463755\surefirebooter14195881653574692350.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
+    <property name="user.name" value="Lev"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Lev\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Lev\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2021.2"/>
+    <property name="java.version" value="11.0.11"/>
+    <property name="user.dir" value="C:\Users\Lev\Desktop\Geek Brains\Java Core for testers\IdeaProjects\geek_web_ui_tests"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Sqlite;C:\Program Files\Git\cmd;C:\Users\Lev\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="ru.geekbrains.AppTest" time="0.002"/>
+</testsuite>
